@@ -35,8 +35,8 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git@github.com:palmer24/devops.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:palmer24/devops.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:palmer24/devops.git</connection>
+		<developerConnection>scm:git@github.com:palmer24/devops.git</developerConnection>
 		<url>https://git@github.com:palmer24/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>

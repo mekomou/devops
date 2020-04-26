@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 Implementation-Title: devops
+<<<<<<< HEAD
 Implementation-Version: 1.3.0-SNAPSHOT
+=======
+Implementation-Version: 1.1.2-SNAPSHOT
+>>>>>>> refs/heads/release/third_major_release
 Build-Jdk-Spec: 1.8
 Created-By: Maven Integration for Eclipse
 

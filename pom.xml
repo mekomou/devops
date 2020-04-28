@@ -10,15 +10,7 @@
 
 	<groupId>com.mekomou</groupId>
 	<artifactId>devops</artifactId>
-<<<<<<< HEAD
-<<<<<<< HEAD
-	<version>1.3.8-SNAPSHOT</version>
-=======
-	<version>1.4.0-SNAPSHOT</version>
->>>>>>> refs/heads/release/sonar_integration
-=======
 	<version>1.5.0-SNAPSHOT</version>
->>>>>>> 4584a73e8bb61ac59f3e1d7cd66c8e929c15d186
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Demo project for Managing jenkins CI/CD</description>
